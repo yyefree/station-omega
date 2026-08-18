@@ -1,13 +1,11 @@
 # Godot 4+ specific ignores
 .godot/
 
-# Godot-specific ignores
+# Godot imported/cached files
 *.import
 export.cfg
 export_presets.cfg
-
-# Imported resources
-*.translation
+*.uid
 
 # OS-specific
 .DS_Store
