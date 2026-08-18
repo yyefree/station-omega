@@ -1,5 +1,7 @@
 # Station Omega
 
+**English** | [中文](README.zh-CN.md)
+
 A fully procedural sci-fi FPS dungeon crawler built with **Godot 4.7**. Zero external assets — every texture, sound effect, and visual is generated entirely in code.
 
 [![Godot 4.7](https://img.shields.io/badge/Godot-4.7-blue)](https://godotengine.org/)
